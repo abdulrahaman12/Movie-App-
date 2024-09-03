@@ -1,0 +1,7 @@
+1.Adding the products to the cart and updates the cart 
+2.Summary of the added cart 
+3.Delete the product in the cart 
+4.Total section which shows the total of the added items
+5.Based on the quantity update the checkout items total
+6.Filter products section - Ascending , Descending , Out of Stock , Rating etc..
+7.Seaech option.
